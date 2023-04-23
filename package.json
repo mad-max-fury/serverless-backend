@@ -15,10 +15,12 @@
     "@strapi/plugin-users-permissions": "4.6.0",
     "@strapi/provider-upload-cloudinary": "^4.6.1",
     "@strapi/strapi": "4.6.0",
-    "better-sqlite3": "7.4.6"
+    "pg": "^8.7.0",
+    "pg-connection-string": "^2.5.0",
+    "sqlite3": "latest"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Ndubuisi Obinna Christopher"
   },
   "strapi": {
     "uuid": "d0e4a9fc-3298-41d6-8d82-b980afdb2aee"
